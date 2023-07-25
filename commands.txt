@@ -1,0 +1,1 @@
+multipass launch --name testlab --cpus 2 --mem 2G --disk 50G     #launch multipass in 50GB diskspace and 2 cpus and 2GB Ram name test lab
